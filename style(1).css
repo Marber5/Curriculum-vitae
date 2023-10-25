@@ -1,0 +1,27 @@
+p { 
+	color:blue; /* Por Lista de Colors, mira aqui:  https://www.w3schools.com/cssref/css_colors.php  */
+}
+h1 {
+	color: MediumVioletRed;
+	font-family: verdana;
+	font-size: 100%;
+	text-align: center;
+}
+h2 {
+	color: MediumVioletRed;
+	font-family: Arial;
+	font-size: 80%;
+}
+ul.a { /*  mira aqui: https://www.w3schools.com/cssref/pr_list-style-type.php  */
+  list-style-type: circle;
+}
+ul.b {
+  list-style-type: square;
+  font-weight: bold;
+}
+ul.c {
+  list-style-type: lower-roman;
+}
+table {
+	width: 100%;
+}
